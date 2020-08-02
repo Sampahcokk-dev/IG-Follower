@@ -1,0 +1,32 @@
+               _ _
+        .-"-._( ) )     				
+       /  ,  ,  66\
+`======\   )_\\=\_o)=   
+        `~~"~ `"
+   _
+   
+__      _____| | ___ ___  _ __ ___   ___
+\ \ /\ / / _ \ |/ __/ _ \| '_ ` _ \ / _ \
+ \ V  V /  __/ | (_| (_) | | | | | |  __/
+  \_/\_/ \___|_|\___\___/|_| |_| |_|\___|    
+  		 INSTAGRAM BOT
+  
+***  
+  Creator : Sampah-dev
+  Copyright (C) 2007 Free Software Foundation,
+  Version == 1.32 
+***
+  Note
+ 	masukkan username dengan @
+	 password hanya tersimpan di device anda   
+	
+	 *jangan keluar dari script menggunakan ctrl-c itu akan 
+	 menggagalkan script*
+	
+	  Jika dalam seminggu tak ada penambahan follower 
+	 satupun maka kemungkinan terjadi error 
+	  atau salah password
+  
+
+
+enjoy the app:3
